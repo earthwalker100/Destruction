@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/Ammo.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/UG/1SBW3MA6ZHLFPXUPNJX2J0.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/G5/BBTRFEZS3MXYGBKX9QTFR2.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/GC_SM_ChamferCube10.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C7/0X4SVJNPLQ6PZ56GSCWQGG.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/2Q/IRKTVZAXYF8T2YBLKVYRY7.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YI/DN8TXQV35I15ZXS3TNX6Z2.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/LevelPrototyping/Meshes/SM_Cube_SM_Cube/GC_SM_Cube17.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+				"C:/Users/source/Documents/Unreal Projects/BPI/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset"
+			]
+		}
+	]
+}
